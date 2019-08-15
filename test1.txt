@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FADC-33CC
+
+ Directory of C:\DataTeam\GIT Course\MyProject
+
+15-Aug-19  06:52 PM    <DIR>          .
+15-Aug-19  06:52 PM    <DIR>          ..
+15-Aug-19  06:52 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  48,661,823,488 bytes free
